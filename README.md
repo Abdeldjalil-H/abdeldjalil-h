@@ -48,7 +48,7 @@ I'm a Software Engineer and Full Stack Developer passionate about building scala
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=abdeldjalil-h&count_private=true&show_icons=true&theme=dark)
 -->
 ### 📫 How to reach me:
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jalilh/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jalilh/)
 
 ---
 *Always learning, always building.*
